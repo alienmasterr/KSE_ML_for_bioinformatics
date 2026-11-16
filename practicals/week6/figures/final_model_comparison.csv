@@ -1,0 +1,4 @@
+model,val_balanced_accuracy,val_macro_f1,test_balanced_accuracy,test_macro_f1,test_accuracy
+MLP,0.6476,0.6228,0.6159,0.5808,0.6235
+Logistic Regression,0.6724,0.6792,0.5937,0.5858,0.5765
+XGBoost,0.5767,0.5799,0.6525,0.6484,0.6471
